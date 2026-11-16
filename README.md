@@ -23,4 +23,6 @@ Je conçois l'architecture et le design d'applications web et mobiles, de la maq
 
 ## Contact
 
+E-mail : nicolasmillogo3@gmail.com
+
 Portfolio : https://nicolas-millogo.vercel.app
