@@ -16,8 +16,9 @@ Je conçois l'architecture et le design d'applications web et mobiles, de la maq
 
 ## Projets
 
-- [OncoGuardApi](https://github.com/MILLOGO-cell/OncoGuardApi) : API FastAPI qui anonymise et classe des mammographies (BI-RADS) avec des modèles de machine learning. Projet de mémoire de Master.
-- [OncoGuardFrontend](https://github.com/MILLOGO-cell/OncoGuardFrontend) : interface Next.js associée.
+- [OncoGuardApi](https://github.com/oncoguard-app/OncoGuardApi) : API FastAPI qui anonymise et classe des mammographies (BI-RADS) avec des modèles de machine learning. Projet de mémoire de Master, regroupé dans l'organisation [oncoguard-app](https://github.com/oncoguard-app).
+- [OncoGuardFrontend](https://github.com/oncoguard-app/OncoGuardFrontend) : interface Next.js associée.
+- [GymFlow](https://github.com/PulseTrackApp) : application mobile Flutter de suivi sportif ([mobile](https://github.com/PulseTrackApp/mobile)) et son API Spring Boot ([backend](https://github.com/PulseTrackApp/backend)).
 - [medical-tracker](https://github.com/MILLOGO-cell/medical-tracker) : application React Native (Expo) pour praticiens de médecine traditionnelle : clients, remèdes, rappels de traitement, français et anglais, thèmes clair et sombre.
 - [Portfolio](https://nicolas-millogo.vercel.app) : études de cas de projets en production (eKeneya, plateforme de télémédecine) dont le code est privé.
 
