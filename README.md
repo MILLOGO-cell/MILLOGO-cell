@@ -1,10 +1,8 @@
 # Nicolas Millogo
 
-**Développeur Full Stack, plutôt frontend** · Ouagadougou, Burkina Faso · à distance (GMT)
+**Ingénieur logiciel** · Ouagadougou, Burkina Faso · à distance (GMT)
 
-Full Stack developer, frontend-leaning. Available for freelance work, 100 % remote.
-
-Je conçois et livre des produits web et mobiles de bout en bout : maquettes Figma, interfaces React et Next.js, API (Django, Spring Boot, Node), tests, intégration continue et mise en production. Plus de six ans de pratique, avec une documentation écrite avec le code, en français et en anglais.
+Je conçois l'architecture et le design d'applications web et mobiles, de la maquette à la mise en production : interfaces React et Next.js, API Django et Spring Boot, tests et intégration continue. Plus de six ans de pratique, avec une documentation écrite avec le code, en français et en anglais.
 
 ## Stack
 
